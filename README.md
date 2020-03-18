@@ -1,2 +1,3 @@
 # hello-world
 just my first repository
+Hi there! I just try this basic function..never mind...
